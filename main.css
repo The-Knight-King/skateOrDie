@@ -47,8 +47,7 @@
 }
 
 button.coolStuffBtn {
-  background-color: red;
-  color: white;
+  color: black;
   display: block;
   margin: auto;
 }
@@ -63,4 +62,18 @@ h5.modal-title {
 
 .modalFormWrapper {
   padding: 2rem;
+}
+
+.imgCenter {
+  display: block;
+  margin: auto;
+}
+
+.btnCenter {
+  display: block;
+  margin: auto;
+  color: black;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  width: 54.5%;
 }
