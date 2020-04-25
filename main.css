@@ -81,3 +81,23 @@ h5.modal-title {
 .footerImg {
   padding: 15px;
 }
+
+.fab {
+  margin: 15px;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fa-envelope {
+  color: #c32f10;
+}
+
+.fa-instagram {
+  color: #C13584;
+}
+
+.socialWrapper {
+  margin: auto;
+}
